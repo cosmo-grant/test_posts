@@ -9,8 +9,3 @@ list
   - second item
 
 > blockquote
-
-```
-def foo():
-    print('some code')
-```
